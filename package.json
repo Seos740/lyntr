@@ -64,7 +64,7 @@
 		"formsnap": "^1.0.1",
 		"jose": "^5.6.3",
 		"js-cookie": "^3.0.5",
-		"lucide-svelte": "^0.399.0",
+		"lucide-svelte": "^0.477.0",
 		"minio": "^8.0.1",
 		"mode-watcher": "^0.3.1",
 		"nodejs-snowflake": "^2.0.1",
