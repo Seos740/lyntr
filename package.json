@@ -47,7 +47,7 @@
 		"@fontsource/roboto": "^5.0.13",
 		"@neondatabase/serverless": "^0.9.4",
 		"@supabase/ssr": "^0.4.0",
-		"@supabase/supabase-js": "^2.44.3",
+		"@supabase/supabase-js": "^2.49.1",
 		"@sveltejs/adapter-node": "^5.2.0",
 		"@tailwindcss/line-clamp": "^0.4.4",
 		"@tensorflow/tfjs-node": "^4.20.0",
